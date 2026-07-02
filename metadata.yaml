@@ -6,7 +6,7 @@
 #
 # Schema mirrors per-repo .github/metadata.yaml. Read by social-preview.sh.
 
-description: "Swift implementations of whatwg specifications."
+description: "Swift implementations of WHATWG specifications."
 homepage: "https://swift-institute.org"
 
 socialPreview:
