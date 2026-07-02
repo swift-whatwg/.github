@@ -6,6 +6,8 @@ Swift implementations of WHATWG (Web Hypertext Application Technology Working Gr
 
 One package per specification, named `swift-whatwg-<spec>`. Each package implements its source document as literally as possible — parsing, validation, and formatting enforced by Swift's type system — and defines its own namespace (`WHATWG_HTML`). Where several specifications govern one subject, the unifying `swift-*-standard` package lives in [swift-standards](https://github.com/swift-standards).
 
+> Swift WHATWG is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by WHATWG.
+
 ## Coverage
 
 | Package | Specification |
