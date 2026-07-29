@@ -10,12 +10,7 @@ One package per specification, named `swift-whatwg-<spec>`. Each package impleme
 
 ## Coverage
 
-| Package | Specification |
-|---|---|
-| [swift-whatwg-html](https://github.com/swift-whatwg/swift-whatwg-html) | HTML Living Standard |
-| [swift-whatwg-url](https://github.com/swift-whatwg/swift-whatwg-url) | URL Standard |
-
-Every repository description carries the specification's full title; the [repositories tab](https://github.com/orgs/swift-whatwg/repositories) lists them all.
+The [repositories tab filtered by `swift-whatwg-`](https://github.com/orgs/swift-whatwg/repositories?q=swift-whatwg-) is the complete, current package view. Every repository description carries the specification's full title.
 
 ## Status
 
